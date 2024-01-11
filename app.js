@@ -96,5 +96,5 @@ prevBtn.addEventListener("click", prevSong);
 audio.addEventListener("ended", nextSong);
 
 window.addEventListener("load", function(){
-    console.log("Az oldal sikeresen betltődött")
+    console.log("Az oldal sikeresen betöltődött")
 })

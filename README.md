@@ -13,3 +13,7 @@ git status
 git add .
 git commit -m "style.css és README fájl módosítva"
 git push -u origin console - a console ágat push-oljuk a repository-ba
+git status 
+git add . 
+git commit -m "app.js hiba javítás és README fájl frissítve"
+git push -u origin console
